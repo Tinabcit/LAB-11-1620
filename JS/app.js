@@ -9,3 +9,4 @@ const secondtodoList = {
 }
 console.log(secondtodoList)
 
+let completedTodos =[]

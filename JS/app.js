@@ -30,3 +30,6 @@ const completedTodos = [
     {todo: "clone repo for starter code", status: "completed" },
     {todo: "Linking HTML file to the Css file", status:"started"}
 ]
+for (const{todo} of completedTodos) {
+    console.log(todo)
+}

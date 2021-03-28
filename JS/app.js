@@ -13,3 +13,5 @@ let completedTodos =[]
 
 // p5 for adding todolist object status point
 let newtodoList = ["todo = clone repo for starter code", "status = completed"];
+
+let todoListLength = todoList.length;

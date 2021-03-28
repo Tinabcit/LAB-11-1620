@@ -15,3 +15,13 @@ let completedTodos =[]
 let newtodoList = ["todo = clone repo for starter code", "status = completed"];
 
 let todoListLength = todoList.length;
+
+
+for(let i = 0; i < todoList.length; i++){
+    let item = newtodoList[i];
+
+    if(newtodoList[i] <= 0) {
+        todoListLength = completed;
+        break;
+    }
+}

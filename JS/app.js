@@ -25,3 +25,8 @@ for(let i = 0; i < todoList.length; i++){
         break;
     }
 }
+// p6 adding part 6 for the javascript
+const completedTodos = [
+    {todo: "clone repo for starter code", status: "completed" },
+    {todo: "Linking HTML file to the Css file", status:"started"}
+]
